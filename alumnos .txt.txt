@@ -1,0 +1,59 @@
+Nombre: Ana
+Calificaciones: 90.00 80.00 100.00
+Promedio: 90.00
+
+Nombre: Luis
+Calificaciones: 70.00 85.00 60.00
+Promedio: 71.67
+
+Nombre: Marta
+Calificaciones: 95.00 88.00 92.00
+Promedio: 91.67
+
+Nombre: Juan
+Calificaciones: 60.00 75.00 70.00
+Promedio: 68.33
+
+Nombre: Sofia
+Calificaciones: 85.00 90.00 80.00
+Promedio: 85.00
+
+Nombre: Pedro
+Calificaciones: 78.00 82.00 79.00
+Promedio: 79.67
+
+Nombre: Carla
+Calificaciones: 88.00 92.00 85.00
+Promedio: 88.33
+
+Nombre: Diego
+Calificaciones: 65.00 70.00 68.00
+Promedio: 67.67
+
+Nombre: Lucia
+Calificaciones: 90.00 95.00 92.00
+Promedio: 92.33
+
+Nombre: Marcos
+Calificaciones: 72.00 78.00 75.00
+Promedio: 75.00
+
+Nombre: Valeria
+Calificaciones: 85.00 87.00 90.00
+Promedio: 87.33
+
+Nombre: Sergio
+Calificaciones: 60.00 65.00 70.00
+Promedio: 65.00
+
+Nombre: Paula
+Calificaciones: 92.00 88.00 94.00
+Promedio: 91.33
+
+Nombre: Javier
+Calificaciones: 75.00 80.00 78.00
+Promedio: 77.67
+
+Nombre: Natalia
+Calificaciones: 88.00 90.00 85.00
+Promedio: 87.67
